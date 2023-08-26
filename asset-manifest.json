@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/blended-5-exchange-currenc/static/css/main.7acaea2f.css",
-    "main.js": "/blended-5-exchange-currenc/static/js/main.296f3315.js",
+    "main.js": "/blended-5-exchange-currenc/static/js/main.c63d776c.js",
     "index.html": "/blended-5-exchange-currenc/index.html",
     "main.7acaea2f.css.map": "/blended-5-exchange-currenc/static/css/main.7acaea2f.css.map",
-    "main.296f3315.js.map": "/blended-5-exchange-currenc/static/js/main.296f3315.js.map"
+    "main.c63d776c.js.map": "/blended-5-exchange-currenc/static/js/main.c63d776c.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.296f3315.js"
+    "static/js/main.c63d776c.js"
   ]
 }
